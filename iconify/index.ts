@@ -1,6 +1,5 @@
 import type { IconAliases, IconSet } from 'vuetify'
 import { h } from 'vue'
-import 'iconify-icon'
 
 const aliases = <IconAliases>{
   /* custom ones */
